@@ -5,7 +5,8 @@ table{
 }
 
 thead{
-    background-color: beige;
+    background-color: black;
+    color: white;
     font-size: 18px;
     font-family: Comic Sans Ms;
     text-align: center;
@@ -15,4 +16,5 @@ thead{
 td{
     border: 1px;
     font-family: Verdana;
+
 }
