@@ -3,3 +3,9 @@ table{
     line-height: 1.5;
     border: solid 3px red;
 }
+
+thead{
+    background-color: beige;
+    font-size: 18px;
+    text-align: center;
+}
